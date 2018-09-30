@@ -1,0 +1,2 @@
+# BotDocs
+Docs for bots.
